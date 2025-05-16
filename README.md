@@ -48,7 +48,7 @@ python3 curva_ec50_animacion.py
 
 4. El GIF generado aparecerá en la misma carpeta del script junto a una carpeta contenedora de los frames del GIF(`Nombre_archivo.gif`).
    
-![CleanShot 2025-05-15 at 23 21 19](https://github.com/user-attachments/assets/eefeb957-ae94-4474-ae4a-c34ea3e17e30)
+![CleanShot 2025-05-15 at 23 31 15](https://github.com/user-attachments/assets/446594de-57b5-48b3-9a35-8ead3148c933)
 
 ---
 
