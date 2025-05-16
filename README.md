@@ -19,7 +19,14 @@ Este repositorio contiene un script en Python que genera una **animación en for
 
 ## 📈 Ejemplo visual
 
+Drug sensitization
+
 ![Nombre_Archivo](https://github.com/user-attachments/assets/4d343fa1-6436-4b99-8fce-d639ff1facb3)
+
+
+Drug resistance
+
+![curva_dosis_respuesta_derecha_lenta](https://github.com/user-attachments/assets/9c187d0a-330f-418d-bc50-d30b6194fa4c)
 
 
 <img src="[Nombre archivo].gif" width="600"/>
