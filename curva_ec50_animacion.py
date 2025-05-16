@@ -25,7 +25,7 @@ color_before = "#B0C4DE"
 color_after = "#1f77b4"
 
 # Carpeta de salida
-output_dir = "curva_dosis_respuesta"
+output_dir = "Curva dosis respuesta"
 os.makedirs(output_dir, exist_ok=True)
 filenames = []
 
@@ -84,7 +84,7 @@ for i, EC50 in enumerate(EC50s):
 # ----------------------------
 # Crear el GIF
 # ----------------------------
-gif_path = "[Nombre_Archivo].gif"
+gif_path = "Nombre_Archivo.gif"
 with imageio.get_writer(gif_path, mode='I', duration=0.4) as writer:
     for filename in filenames:
         writer.append_data(imageio.imread(filename))
