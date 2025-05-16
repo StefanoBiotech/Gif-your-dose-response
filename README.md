@@ -13,7 +13,7 @@ Este repositorio contiene un script en Python que genera una **animación en for
 - Calcula curvas dosis–respuesta con diferentes valores de EC₅₀.
 - Genera un gráfico para cada curva, comparando la condición inicial con la actual.
 - Añade una flecha y texto explicativo en el último frame.
-- Une todos los gráficos en un GIF animado llamado `[Nombre archivo].gif`.
+- Une todos los gráficos en un GIF animado llamado `Nombre archivo.gif`.
 
 ---
 
