@@ -55,7 +55,6 @@ python3 curva_ec50_animacion.py
 ## 📁 Archivos incluidos
 
 - `curva_ec50_animacion.py`: Script principal.
-- `requirements.txt`: Lista de dependencias.
 - `README.md`: Este archivo.
 
 ---
