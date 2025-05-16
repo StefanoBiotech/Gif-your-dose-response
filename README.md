@@ -43,7 +43,7 @@ pip install numpy matplotlib imageio
 3. Ejecuta el script con:
 
 ```bash
-python3 curva_ec50_animacion.py
+python3 script.py
 ```
 
 4. El GIF generado aparecerá en la misma carpeta del script junto a una carpeta contenedora de los frames del GIF(`Nombre_archivo.gif`).
@@ -54,7 +54,7 @@ python3 curva_ec50_animacion.py
 
 ## 📁 Archivos incluidos
 
-- `script.py`: Script principal.
+- `script.py`: Script principal. [Drug sensitization/Drug resistance]
 - `README.md`: Este archivo.
 
 ---
