@@ -2,7 +2,7 @@
 Genera una animación de curva dosis-respuesta con la ecuación de Hill, mostrando la reducción progresiva de EC₅₀ tras un tratamiento. Útil para visualización de sensibilidad farmacológica.
 
 
-# Animación de Curva Dosis–Respuesta con EC₅₀ Decreciente
+# Animación de Curva Dosis–Respuesta con EC₅₀ Decreciente/Creciente
 
 Este repositorio contiene un script en Python que genera una **animación en formato GIF** basada en la **ecuación de Hill**, mostrando cómo una curva dosis–respuesta cambia cuando **disminuye progresivamente el valor de EC₅₀**, simulando un aumento en la sensibilidad a un fármaco tras tratamiento.
 
