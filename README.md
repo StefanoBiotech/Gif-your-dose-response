@@ -19,6 +19,9 @@ Este repositorio contiene un script en Python que genera una **animación en for
 
 ## 📈 Ejemplo visual
 
+![Nombre_Archivo](https://github.com/user-attachments/assets/4d343fa1-6436-4b99-8fce-d639ff1facb3)
+
+
 <img src="[Nombre archivo].gif" width="600"/>
 
 ---
@@ -43,7 +46,9 @@ pip install numpy matplotlib imageio
 python3 curva_ec50_animacion.py
 ```
 
-4. El GIF generado aparecerá en la misma carpeta (`stefano_ec50.gif`).
+4. El GIF generado aparecerá en la misma carpeta del script junto a una carpeta contenedora de los frames del GIF(`Nombre_archivo.gif`).
+   
+![CleanShot 2025-05-15 at 23 21 19](https://github.com/user-attachments/assets/eefeb957-ae94-4474-ae4a-c34ea3e17e30)
 
 ---
 
