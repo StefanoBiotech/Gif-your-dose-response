@@ -25,7 +25,7 @@ color_before = "#B0C4DE"
 color_after = "#1f77b4"
 
 # Carpeta de salida
-output_dir = "curva_dosis_respuesta_flecha_academica"
+output_dir = "curva_dosis_respuesta"
 os.makedirs(output_dir, exist_ok=True)
 filenames = []
 
